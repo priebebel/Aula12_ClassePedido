@@ -16,8 +16,8 @@ public class ItemPedido {
      */
     public ItemPedido(String produto, int quantidade, double precoUnitario) {
         this.produto = produto;
-        this.quantidade = quantidade;
-        this.precoUnitario = precoUnitario;
+        setQuantidade(quantidade);
+        setPrecoUnitario(precoUnitario);
     }
     
     // Getters e Setters
@@ -34,6 +34,9 @@ public class ItemPedido {
     }
     
     public void setQuantidade(int quantidade) {
+        if (quantidade < 0) {
+            throw new IllegalArgumentException("Quantidade não pode ser negativa");
+        }
         this.quantidade = quantidade;
     }
     
@@ -42,6 +45,9 @@ public class ItemPedido {
     }
     
     public void setPrecoUnitario(double precoUnitario) {
+        if (precoUnitario < 0) {
+            throw new IllegalArgumentException("Preço unitário não pode ser negativo");
+        }
         this.precoUnitario = precoUnitario;
     }
     
