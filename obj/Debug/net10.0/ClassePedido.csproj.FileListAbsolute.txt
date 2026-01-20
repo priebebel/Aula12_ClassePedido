@@ -2,3 +2,14 @@ c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.GeneratedM
 c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.AssemblyInfoInputs.cache
 c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.AssemblyInfo.cs
 c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.csproj.CoreCompileInputs.cache
+c:\Users\denaa\rdi-aula12\ClassePedido\bin\Debug\net10.0\ClassePedido.exe
+C:\Users\denaa\rdi-aula12\ClassePedido\bin\Debug\net10.0\ClassePedido.deps.json
+C:\Users\denaa\rdi-aula12\ClassePedido\bin\Debug\net10.0\ClassePedido.runtimeconfig.json
+c:\Users\denaa\rdi-aula12\ClassePedido\bin\Debug\net10.0\ClassePedido.dll
+c:\Users\denaa\rdi-aula12\ClassePedido\bin\Debug\net10.0\ClassePedido.pdb
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.sourcelink.json
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.dll
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\refint\ClassePedido.dll
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.pdb
+C:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.genruntimeconfig.cache
+C:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ref\ClassePedido.dll
