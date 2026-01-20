@@ -1,0 +1,4 @@
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.AssemblyInfoInputs.cache
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.AssemblyInfo.cs
+c:\Users\denaa\rdi-aula12\ClassePedido\obj\Debug\net10.0\ClassePedido.csproj.CoreCompileInputs.cache
